@@ -1,0 +1,23 @@
+body {
+    background: black;
+  }
+  canvas {
+    vertical-align: middle;
+  }
+  button {
+    width: 100px;
+    height: 80px;
+  }
+  
+  .text {
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    top: 0;
+    right: 60px;
+    max-width: 600px;
+    line-height: 1.5;
+  }
+  .text ol li {
+    padding: 10px 0;
+  }
