@@ -1,4 +1,5 @@
 var data = []
+
 var options = {
   min: 0,
   max: 100,
